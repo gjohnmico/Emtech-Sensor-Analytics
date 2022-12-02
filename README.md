@@ -3,8 +3,13 @@ This repository is created in compliance of the requirement for EMERGING TECHNOL
 
 # Group Members
 Balberan, Venus Rita Mae
+<br>
 Baluyot, Jericho
+<br>
 Delos Reyes, Abigail
+<br>
 Guevarra, John Mico
+<br>
 Lorzano, Daryl Khent
+<br>
 Madrigal, Francis
